@@ -11,7 +11,7 @@ JavaScriptAlgorithyms and Data Structures at FreeCodeCamp</br>
 Coures in progress:</br>
 
 Front End Development Libraries at FreeCodeCamp // almost done</br>
-CS50's Introduction to Computer Science at EDX // currently at Week7 of 12</br>
+CS50's Introduction to Computer Science at EDX // currently at Week 11 of 12</br>
 
 
 Simultaneously I'm working on couple personal projects.</br>
