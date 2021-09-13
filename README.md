@@ -7,11 +7,8 @@ So far I completed following courses:</br>
 Python2 at CodeAcademy</br>
 Responsive Web Design at FreeCodeCamp</br>
 JavaScriptAlgorithyms and Data Structures at FreeCodeCamp</br>
-
-Coures in progress:</br>
-
-Front End Development Libraries at FreeCodeCamp // almost done</br>
-CS50's Introduction to Computer Science at EDX // currently at Week 11 of 12</br>
+Front End Development Libraries at FreeCodeCamp
+CS50's Introduction to Computer Science at EDX
 
 
 Simultaneously I'm working on couple personal projects.</br>
