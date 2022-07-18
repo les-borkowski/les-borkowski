@@ -26,12 +26,9 @@ Python, Django, JavaScriot, React, HTML, CSS, Sass, Bootstrap, PostgreSQL, Graph
 
 ## My github repositories:
 1. *to-learn/* - Code written for coding courses and couple small projects.
-   *to-learn/mfstotest/* - technical test for a job: some css and accurate Javscsript stopwatch
-2. *tinytodoapp/* - Simple app built with ReactJS and Google Firebase
-3. *LBportfolio/* - Personal website, built with GatsbyJs, React, Sass, GraphQL
-4. *jimmy_nail/*  - Little app to check email addresses and their variations against a database. Stack: Python, Google Sheets API
-5. *dj4e-project/* - Larger app project using Django Rest API. Work in progress
-6. *web_scraper_duo/* - Testing web scrapers and xpath extraction. Work in progress
+2. *LBportfolio/* - Personal website, built with GatsbyJs, React, Sass, GraphQL
+3. *dj4e-project/* - Larger app project using Django Rest API. Work in progress
+4. *web_scraper_duo/* - Testing web scrapers and xpath extraction. Work in progress
 
 Les Borkowski 2022 www.borkowski.xyz
 
