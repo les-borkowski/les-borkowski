@@ -1,12 +1,8 @@
 ## About me
-After 9 years of working within the hospitality industry, I have decided to take on a new path and focus on pursuing a career within software engineering. 
-I have been completing various coding courses in my spare time for several years as this is where my passion lies, and I would like to now do this full time. 
-I'm hard working, motivated and keen to learn. 
-Looking for internships or junior roles to start my career.
+I'm a software developer who works mainly with Java and Spring Boot. I enjoy building backend systems and working with relational databases to keep everything running smoothly. I'm also interested in artificial intelligence and how it can make building applications easier—whether it's speeding up development, automating repetitive tasks, or helping make better decisions through smarter tools.
 
 ## My interests:
-Python, Django, JavaScriot, React, HTML, CSS, Sass, Bootstrap, PostgreSQL, GraphQL, xPaths, web scraping
-
+Java, SpringBoot, Relational Databases (Oracle SQL, PL/SQL), Bash, AI models and agents.
 
 ## Coding courses:
 
@@ -23,12 +19,4 @@ Python, Django, JavaScriot, React, HTML, CSS, Sass, Bootstrap, PostgreSQL, Graph
 #### CS50 Introduction to Computer Science at EDX (August 2021)
 #### CodeAcademy Python2 (March 2021)
 #### Django for Everybody at www.dj4e.com (December 2021)
-
-## My github repositories:
-1. *to-learn/* - Code written for coding courses and couple small projects.
-2. *LBportfolio/* - Personal website, built with GatsbyJs, React, Sass, GraphQL
-3. *dj4e-project/* - Larger app project using Django Rest API. Work in progress
-4. *web_scraper_duo/* - Testing web scrapers and xpath extraction. Work in progress
-
-Les Borkowski 2022 www.borkowski.xyz
 
